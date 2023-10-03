@@ -1,0 +1,100 @@
+#titulo{
+
+    background-color: white;
+    font-size: 30px;
+    font-weight: bold;
+    top: 20%;
+    height: 7%;
+    left: 30%;
+    width: 15%;
+    color: #FFD700;
+    padding-top: 5%;
+    padding-left: 44%;
+
+
+}
+
+#contenido{
+
+    
+    position: absolute;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    height: 81%;
+    top: 23%;
+    left: 15%;
+    width: 70%;
+    padding: 10px;
+
+}
+
+#fondo{
+    
+    background-color: white;
+    position: fixed;
+}
+
+#piepagina{
+
+    position: fixed;
+    color: #ffffff;
+    height: 7%;
+    bottom: 0;
+    left: 0%;
+    width: 100%;
+    background-color: #990000;
+    text-align: center;
+    padding-top: 25px;
+
+
+}
+
+
+
+#barraderecha{
+
+    position:fixed;
+    height: 81%;
+    top: 12%;
+    right: 0;
+    width: 15%;
+    background-color: #808080;
+    padding: 10px;
+
+}
+
+#barraizquierda{
+
+    position: fixed;
+    height: 81%;
+    top: 12%;
+    left: 0;
+    width: 15%;
+    background-color: #808080;
+    padding: 10px;
+
+}
+
+#infosecundaria{
+    
+    color:#cccc00
+    
+}
+
+.parrafosCentrados{
+    
+    text-align: center;
+    font-weight: bold;
+    color:#666666
+    
+}
+
+.textoForo{
+    
+    color:#cccc00
+    
+}
+
+
+
+

@@ -1,0 +1,86 @@
+*{
+    
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    
+    font-family: Comic Sans MF;
+    padding: 45px 20px 0px;
+    
+}
+
+.header{
+    
+    background-color: #990000;
+    height: 12%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position:fixed;
+    
+    
+}
+
+.nav{
+    
+    display: flex;
+    justify-content: space-between;
+    max-width: 990px;
+    margin: 0 auto;
+    
+}
+
+.nav-link{
+    
+    color: #ffffff;
+    text-decoration: none;
+    
+    
+}
+
+.logo{
+    
+    color:#ffffff;
+    left: 0.5%;
+    position: absolute;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+    line-height: 80px;
+    
+}
+
+.nav-menu{
+    
+    display: flex;
+    margin-right: 20px;
+    list-style: none;
+    
+}
+
+.nav-menu-item{
+    
+    font-size: 24px;
+    margin: 0 18px;
+    line-height: 115px;
+    width: max-content;
+    
+}
+
+.nav-menu-link{
+    
+    padding: 15px 10px;
+    border-radius: 10px;
+    
+    
+}
+
+.nav-menu-link:hover{
+    
+    background-color: #808080;
+    transition: 0.7s;
+    
+}
